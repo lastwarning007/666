@@ -18,9 +18,9 @@ import MySQLdb
 from datetime import datetime
 from telegram import ReplyKeyboardMarkup
 
-token = "TELEGRAMBOTTOKENHERE"
+token = "7343477389:AAEL3rdXEVk9F1O1twhwtTsPdlEL72qrzKg"
 
-admins = [1942768168]
+admins = [6829567767]
 debug = True
 
 
